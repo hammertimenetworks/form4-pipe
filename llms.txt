@@ -1,0 +1,11 @@
+# FORM4 PIPE
+
+> Public SEC Form 4 cluster feed. JSON. Not advice.
+
+- Site: https://aurora-lion-clear-hill.grok.me
+- Health: https://aurora-lion-clear-hill.grok.me/api/v1/health
+- Tape: https://aurora-lion-clear-hill.grok.me/api/v1/form4
+- Clusters: https://aurora-lion-clear-hill.grok.me/api/v1/form4?format=clusters
+- CSV: https://aurora-lion-clear-hill.grok.me/api/v1/form4?format=csv
+- Repo: https://github.com/hammertimenetworks/form4-pipe
+- Operator: @Dennis_Hammer
