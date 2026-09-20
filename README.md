@@ -47,9 +47,7 @@ Public EDGAR data only. FINRA license is not on this product. You sell parsed fi
 Stripe on Inertia Holdings is still sandbox. Do not claim live checkout.
 
 - Free: poll the public URL (fair use)
-- Builder: $49/mo JSON
-- Desk: $199/mo JSON + CSV + brief
-- Custom filter: $499 one-time
+$149 24h / $249 6h / $499 five daily reports. JSON + CSV + one-page process note. Public EDGAR. Buy on Upwork. 
 
 ## Disclaimer
 
